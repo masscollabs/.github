@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - We are a Free Software company
+🙋‍♀️ A short introduction - "We Masscollabs Services is leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures"
 🌈 Contribution guidelines - You may start reading https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md
 👩‍💻 Useful resources - https://github.com/masscollabs/masscollabs is the place for our core documents
 🍿 Fun facts - Milk and chocolate 
