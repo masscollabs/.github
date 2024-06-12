@@ -28,15 +28,15 @@ And please see [Free Software Definition page](https://www.gnu.org/philosophy/fr
 
 Masscollabs Services GitHub profile README
 
-Copyright (C) 2024 QB Networks
+Copyright (C)  2024  QB Networks
 
-Copyright (C) 2017-2024 Masscollabs Services
+Copyright (C)  2017-2024  Masscollabs Services
 
-Copyright (C) 2017-2024 procyberian and contributors
+Copyright (C)  2017-2024  Procyberian and contributors
 
-Copyright (C) 2017-2024 amassivus and contributors
+Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
 
-Copyright (C) 2017-2024 Mass Collaboration Labs and contributors
+Copyright (C)  2017-2024  amassivus and contributors
 
 Copyright (C) 2024 godigitalist and contributors
 
