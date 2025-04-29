@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Free Software Free Society by Masscollabs Services](../img/masscollabs-purple-saffron.png)
+![Free Software Free Society by Masscollabs Services](../img/fsw_fs.png)
 
 🙋‍♀️ A short introduction - "We QB Networks & Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures"
 
