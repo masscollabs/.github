@@ -1,28 +1,24 @@
 ## Hi there 👋
 
-![Free Software Free Society by Masscollabs Services](../img/liberate.png)
+![Free Software Free Society by Masscollabs Services](img/liberate.png)
 
-🙋‍♀️ A short introduction - "We QB Networks & Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures"
+* "We QB Networks & Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures"
 
-🌈 Contribution guidelines - You may start reading https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md
+* Contribution guidelines - You may start reading our [Code of Conduct](https://source.masscollabs.xyz/masscollabs/masscollabs/src/branch/master/CODE_OF_CONDUCT.md)
 
-👩‍💻 Useful resources - https://github.com/masscollabs/masscollabs is the place for our core documents
+*  https://source.masscollabs.xyz/masscollabs/masscollabs/ is the place for our core documents
 
-🍿 Fun facts - Milk and chocolate 
+## The four essential freedoms
 
-📫 Our Email List : You may join our Discussion General Email List by visiting https://www.masscollabs.xyz/mailman/listinfo/discuss_masscollabs.xyz and for Free Software Discussion https://www.masscollabs.xyz/mailman/listinfo/freesoftware_masscollabs.xyz
+A program is free software if the program's users have the four essential freedoms:
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* The freedom to run the program as you wish, for any purpose (freedom 0).
 
-## Free Software
+* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
 
-The freedom to run the program as you wish, for any purpose (freedom 0).
+* The freedom to redistribute copies so you can help others (freedom 2).
 
-The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-
-The freedom to redistribute copies so you can help others (freedom 2).
-
-The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
 And please see [Free Software Definition page](https://www.gnu.org/philosophy/free-sw.html)
 
